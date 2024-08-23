@@ -1,0 +1,9 @@
+rootProject.name = 'JavaCoding'
+include 'smcode'
+include 'designpatterns'
+include 'dsaproblems'
+include 'javalanguage'
+include 'parkinglot'
+include 'concurrency'
+include 'interview'
+
