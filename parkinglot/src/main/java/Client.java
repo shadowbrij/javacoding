@@ -1,10 +1,6 @@
-import controllers.TicketController;
-import models.ParkingLot;
-
 public class Client {
     public static void main(String[] args) {
-        var ticketController = new TicketController();
-        ticketController.generateTicket()
+        
 
     }
 }

@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.dev'
+group = 'com.dev.parkinglot'
 version = '1.0-SNAPSHOT'
 
 repositories {

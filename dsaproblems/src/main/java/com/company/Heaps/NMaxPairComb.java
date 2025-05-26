@@ -32,7 +32,7 @@ public class NMaxPairComb {
         ans.add(maxA+maxB);
 
         while(!maxHeapA.isEmpty()){
-            int peekA = maxHeapA.poll();
+            int peekA = maxHeapA.peek();
             int peekB = maxHeapB.poll();
 
             if(maxA > maxB){
